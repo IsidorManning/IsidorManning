@@ -13,7 +13,7 @@ I love working on any types of projects that involves exploring new areas and le
 Initially, I started with Python, but soon delved into frontend languages and tools like JavaScript, HTML, CSS, Tailwind, and React.js to develop responsive and interactive UIs for my projects. Additionally, I learned C++ as part of my coursework.
 
 ### 👨‍🏫 Fun Fact
-I serve as an embedded tutor in a C++ class at my college, helping students both coneptually and with hands-on coding problems. Tutoring not only allows me to help others but also deepens my understanding of the subject matter.
+I serve as a STEM tutor at my college, helping students in C++ and Physics, both with coneptually and with hands-on problems. Tutoring not only allows me to help others but also deepens my understanding of the subject matter.
 
 
 I'm always open to discussions, ideas, and opportunities. Feel free to reach out to me via email at isidormanning@gmail.com.
