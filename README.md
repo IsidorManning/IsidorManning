@@ -1,7 +1,7 @@
 ### Hi!👋
 
 # 🚀 About Me
-Hello! I'm Isidor Mannig, originally from Gothenburg, Sweden, now residing in Mountain View, California. I'm currently pursuing a degree in computer science at Foothill College. If I would to describe myself breifely, I'd say that I am a highly curious individual with a passion for continuous learning.
+Hello! I'm Isidor Mannig, originally from Gothenburg, Sweden. If I would to describe myself breifely, I'd say that I am a highly curious individual with a passion for continuous learning.
 
 ### 📖 Background
 At the age of 17, out of sheer curiosity, I delved into coding without a specific motivation. However, I quickly developed a profound love for programming. Over the past three years, my exploration of computer science has expanded to include interests in other subjects like physics and mathematics. The more I delve into each subject, the deeper my fascination grows. I myself belive my love for these subjects fundamentally stems from the joy I get of trying to understand _how_ things work in our world. 
@@ -13,7 +13,7 @@ I love working on any types of projects that involves exploring new areas and le
 Initially, I started with Python, but soon delved into frontend languages and tools like JavaScript, HTML, CSS, Tailwind, and React.js to develop responsive and interactive UIs for my projects. Additionally, I learned C++ as part of my coursework.
 
 ### 👨‍🏫 Fun Fact
-I serve as a STEM tutor at my college, helping students in C++ and Physics, both with coneptually and with hands-on problems. Tutoring not only allows me to help others but also deepens my understanding of the subject matter.
+I served as a STEM tutor at my college, helping students in C++ and Physics, both with coneptually and with hands-on problems. Tutoring not only allows me to help others but also deepens my understanding of the subject matter.
 
 
 I'm always open to discussions, ideas, and opportunities. Feel free to reach out to me via email at isidormanning@gmail.com.
