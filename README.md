@@ -18,4 +18,4 @@ I served as a STEM tutor at my college, helping students in C++ and Physics, bot
 
 I'm always open to discussions, ideas, and opportunities. Feel free to reach out to me via email at isidormanning@gmail.com.
 
-Take care!
+The world is either weird or perfect. Stay curious
