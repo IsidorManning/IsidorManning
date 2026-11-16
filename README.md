@@ -1,3 +1,3 @@
-Hello! I'm Isidor Mannig, originally from Gothenburg, Sweden. 
+From Gothenburg, Sweden. 
 
-Believe in curiosity
+Believe in curiosity!
